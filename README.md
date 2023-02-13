@@ -3,6 +3,7 @@
 
 An ER-model and a translated relational schema for learning management system.
 
+Has an Oracle JDBC connection.
 
 
 A management system for online learning to allow upload, search and list online courses
